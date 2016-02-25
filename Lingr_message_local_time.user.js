@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        Lingr message local time
-// @namespace   http://aycabta.github.io/
+// @name       Lingr message local time
+// @namespace  http://aycabta.github.io/
 // @version    0.0.1
 // @description  The Benry Script
 // @include    http://lingr.com/
