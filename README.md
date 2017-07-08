@@ -8,4 +8,3 @@ Lingr with Local Time
 ![local time](chat-log.png)
 
 LOCAL TIME!!!!!!!!!!!!!
-
