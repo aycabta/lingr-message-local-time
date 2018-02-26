@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name       Lingr message local time
+// @license    MIT
 // @namespace  http://aycabta.github.io/
 // @version    0.0.2
 // @description  The Benry Script
